@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     BaiduFaceMainDialog w;
     w.show();
 	//commit test
-	//
+	// comit test 1
 
     return a.exec();
 }
